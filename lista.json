@@ -1,0 +1,7 @@
+{
+	"alumnos":
+	[
+		{"nombre":"Paolo","correo":"paolo@gmail.com","telefono":"938831824"},
+		{"nombre":"Noemi","correo":"noemi@gmail.com","telefono":"987345627"}
+	]
+}
